@@ -30,19 +30,31 @@ Catchments, While Intersections Indicate Catchments Partially Incorporated in Bo
 
 ## Results
 ### Model Performance
-[fig05.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430242/fig05.pdf)
+![fig05.png](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig05.png?raw=true)
+Evaluation of Performance Discrepancies in the Applied Models Relative to Batch Size and Additional Static Catchment Attributes.
+The Number Represents the Average KGE Over All 35 Catchments. The Dotted Line Displays the Percentile Intervals.
 
 ### Runtime
-[fig06.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430248/fig06.pdf)
-
+[fig06.png](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig06.png?raw=true))
+Comparison of Model Runtime Across Three Different Architectures (CNN, LSTM, and GRU) With Varying Batch Sizes (256
+and 2048) and the Presence or Absence of Static Features.
 
 ### Model Sensitivity
 #### CNN
-[fig07.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430209/fig07.pdf)
+[fig07.png](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig07.png?raw=true)
+Sensitivity Analysis of the CNN Model With Static Features and a Batch Size of 256. All Features Have Been Uniformly Altered
+to Evaluate Their Impact Towards Discharge Prediction. Metric Features Were Increased by 10%, While Categorical Features Were Set as
+Dominating Over All Catchments.
 
 #### LSTM 
-[fig08.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430256/fig08.pdf)
+[fig08.png](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig08.png?raw=true)
+Sensitivity Analysis of the LSTM Model With Static Features and a Batch Size of 256. All Features Have Been Uniformly Altered
+to Evaluate Their Impact Towards Discharge Prediction. Metric Features Were Increased by 10%, While Categorical Features Were Set as
+Dominating Over All Catchments.
 
 
 #### GRU
-[fig09.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430254/fig09.pdf)
+[fig09.png](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig09.png?raw=true)
+Sensitivity Analysis of the GRU Model With Static Features and a Batch Size of 256. All Features Have Been Uniformly Altered
+to Evaluate Their Impact Towards Discharge Prediction. Metric Features Were Increased by 10%, While Categorical Features Were Set as
+Dominating Over All Catchments.
