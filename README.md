@@ -1,6 +1,6 @@
 # About
 
-This repository holds all the code I devolped for my masters thesis
+This repository holds all the code I developed for my masters' thesis
 
 # Neural networks in hydrology: A comparative study of different algorithms
 
@@ -24,7 +24,7 @@ the aid of neural networks.
 
 ## Materials and Methods
 ### Study Area
-[fig01.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430226/fig01.pdf)
+![fig01.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430226/fig01.pdf)
 Geographic Distribution of the Catchments in Hesse and Hesse’s Location Within Germany. Darker Shades Represent Nested
 Catchments, While Intersections Indicate Catchments Partially Incorporated in Both Training and Testing Phases.
 
