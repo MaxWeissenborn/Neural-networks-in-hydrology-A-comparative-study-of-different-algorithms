@@ -1,9 +1,11 @@
 # About
+
 This repository holds all the code I devolped for my masters thesis
 
 # Neural networks in hydrology: A comparative study of different algorithms
 
 ## Abstract
+
 This study presents a comparative analysis of different neural network models, including Convolutional Neural Net-
 works (CNN), Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) in predicting discharge within ungauged
 basins in Hesse, Germany. All models were trained on 54 catchments with 28 years of daily meteorological data, either includ-
