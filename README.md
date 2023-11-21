@@ -1,4 +1,5 @@
-# This repository holds all the code I devolped for my masters thesis
+# About
+This repository holds all the code I devolped for my masters thesis
 
 # Neural networks in hydrology: A comparative study of different algorithms
 
