@@ -24,8 +24,7 @@ the aid of neural networks.
 
 ## Materials and Methods
 ### Study Area
-<img src="[relative/path/in/repository/to/image.svg](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig01.png?raw=true)" width="128"/>
-![fig01.png](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig01.png?raw=true)
+![fig01.png](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/blob/main/fig01.png?raw=true | width=100)
 Geographic Distribution of the Catchments in Hesse and Hesse’s Location Within Germany. Darker Shades Represent Nested
 Catchments, While Intersections Indicate Catchments Partially Incorporated in Both Training and Testing Phases.
 
