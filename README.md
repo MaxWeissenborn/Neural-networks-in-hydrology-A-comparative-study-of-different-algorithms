@@ -19,3 +19,30 @@ relationship between batch size and runtime revealed variations across different
 between model architecture and configuration. This study contributes to a comprehensive framework for evaluating different
 algorithms and confirms that the challenge of predicting streamflow in ungauged basins appears to be finally within reach with
 the aid of neural networks.
+
+## Introduction
+
+## Materials and Methods
+### Study Area
+[fig01.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430226/fig01.pdf)
+Geographic Distribution of the Catchments in Hesse and Hesse’s Location Within Germany. Darker Shades Represent Nested
+Catchments, While Intersections Indicate Catchments Partially Incorporated in Both Training and Testing Phases.
+
+## Results
+### Model Performance
+[fig05.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430242/fig05.pdf)
+
+### Runtime
+[fig06.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430248/fig06.pdf)
+
+
+### Model Sensitivity
+#### CNN
+[fig07.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430209/fig07.pdf)
+
+#### LSTM 
+[fig08.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430256/fig08.pdf)
+
+
+#### GRU
+[fig09.pdf](https://github.com/MaxWeissenborn/Neural-networks-in-hydrology-A-comparative-study-of-different-algorithms/files/13430254/fig09.pdf)
